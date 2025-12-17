@@ -1,0 +1,9 @@
+[project]
+name = "brightdata-ai-research-agent"
+version = "0.1.0"
+description = "Baseline vs multi-source research agents powered by Bright Data"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
