@@ -26,7 +26,7 @@ An autonomous AI Research Agent that performs web searches (SERP), scrapes page 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/brightdata-ai-research-agent.git
+   git clone https://github.com/mattvideoproductions/brightdata-ai-research-agent.git
    cd brightdata-ai-research-agent
    ```
 
